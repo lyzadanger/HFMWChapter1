@@ -70,12 +70,12 @@ dt {
 .header p {
   margin-left: -1000px;
 }
-.right ul {
+#points ul {
   list-style-image: url('images/point.png');
   margin: 0.5em 0 1em 0.5em;
   padding-left: 1em;
 }
-.right ul li {
+#points ul li {
   margin: 0.5em 1em;
 }
 .footer {
@@ -109,14 +109,14 @@ dt {
 .navigation ul li {
   width: 33.3333333%;
 }
-.left {
+#visit {
   width: 25%;
   float: left;
 }
-.right {
+#points {
   width: 25%;
   float: right;
 }
-.main {
+#main {
   margin: 10px 27.0833333% 0 26.0416667%;
 }
