@@ -104,7 +104,7 @@ dt {
   width: 100%;
 }
 .column {
-  margin: 1.04166667% 1.04166667% 0 0;
+  margin: 10px 1.04166667% 0 0;
 }
 .navigation ul li {
   width: 33.3333333%;
@@ -118,5 +118,5 @@ dt {
   float: right;
 }
 .main {
-  margin: 1.04166667% 27.0833333% 0 26.0416667%;
+  margin: 10px 27.0833333% 0 26.0416667%;
 }
