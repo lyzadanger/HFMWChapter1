@@ -9,7 +9,7 @@ Chapter 1
 
 The directories here that begin with numerals represent subsequent steps of the Splendid Walrus site as the learner moves through the chapter exercises.
 
-#### How to Use: Chapter ZIP file or `chapter1` directory (normal mode)
+#### How to Use: Chapter ZIP file or `chapter1` directory on <hf-mw.com> (normal mode)
 Everything you need for completing the exercises in the chapter is contained in the `chapter1.zip` file, which is an archive of the `chapter1` directory.
 
 #### How to Use: Build from repo source (expert mode)
